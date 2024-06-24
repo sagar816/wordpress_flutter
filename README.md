@@ -6,9 +6,7 @@ Also we sorted the post as per categories and displayed the post related to part
 
 Please find the UI photoso for your reference,
 
-![WA1](https://github.com/sagar816/wordpress_flutter/assets/78189906/28947404-4cc2-44df-ab39-d2c4122d3b04)
-![WA2](https://github.com/sagar816/wordpress_flutter/assets/78189906/e9884bb7-20a2-4741-b6a7-de96202644dc)
-![WA3](https://github.com/sagar816/wordpress_flutter/assets/78189906/8d3804df-224c-42b6-9208-d45574a2c73a)
-![WA4](https://github.com/sagar816/wordpress_flutter/assets/78189906/22ecc0c7-867f-4462-acfd-733766ed90b8)
-
-
+![Wp1](https://github.com/sagar816/wordpress_flutter/assets/78189906/08bf01fa-b1c4-4d40-a37b-0910a56557b3)
+![Wp2](https://github.com/sagar816/wordpress_flutter/assets/78189906/e4315ae5-8f0d-42ec-a94c-033baba284b1)
+![Wp3](https://github.com/sagar816/wordpress_flutter/assets/78189906/cd58c38b-a1c2-40b5-9411-3a9d057ba4a3)
+![Wp4](https://github.com/sagar816/wordpress_flutter/assets/78189906/ade929f7-7217-4caf-934c-aa7e5a54f369)
