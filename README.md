@@ -4,7 +4,7 @@ Using Flutter RESTAPIs - all the posts and pages were fetched and displayed on f
 
 Also we sorted the post as per categories and displayed the post related to particular categories.
 
-Please find the UI photoso for your reference,
+Please find the UI photoo for your reference:
 
 ![Wp1](https://github.com/sagar816/wordpress_flutter/assets/78189906/08bf01fa-b1c4-4d40-a37b-0910a56557b3)
 ![Wp4](https://github.com/sagar816/wordpress_flutter/assets/78189906/ade929f7-7217-4caf-934c-aa7e5a54f369)
