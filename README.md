@@ -1,16 +1,12 @@
-# demo_flr_01
+A Flutter project to Show posts and pages of wordpress in Flutter App.
 
-A new Flutter project.
+Using Flutter RESTAPIs - all the posts and pages were fetched and displayed on flutter UI Page.
 
-## Getting Started
+Also we sorted the post as per categories and displayed the post related to particular categories.
 
-This project is a starting point for a Flutter application.
+Please find the UI photoso for your reference,![WA1](https://github.com/sagar816/wordpress_flutter/assets/78189906/28947404-4cc2-44df-ab39-d2c4122d3b04)
+![WA2](https://github.com/sagar816/wordpress_flutter/assets/78189906/e9884bb7-20a2-4741-b6a7-de96202644dc)
+![WA3](https://github.com/sagar816/wordpress_flutter/assets/78189906/8d3804df-224c-42b6-9208-d45574a2c73a)
+![WA4](https://github.com/sagar816/wordpress_flutter/assets/78189906/22ecc0c7-867f-4462-acfd-733766ed90b8)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
